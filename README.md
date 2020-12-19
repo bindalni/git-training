@@ -1,3 +1,3 @@
 # git-training
 Practice at Hansen.
-updating 1.2
+updating 1.3
